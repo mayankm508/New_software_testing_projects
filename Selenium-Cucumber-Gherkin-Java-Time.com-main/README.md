@@ -1,3 +1,11 @@
+# About project
+Time.com website automation Testing with Java, Selenium, Cucumber, Gherkin, JUnit, TestNG, Allure Report & Page Object Model Framework.
+
+Topics
+java,intellij,cucumber-jvm, selenium-webdriver, allure-report, page-object-model, testng-framework
+Resources
+
+
 # Java_Selenium_Cucucmber
 
 Java_Selenium_Cucucmber : https://www.time.com/
