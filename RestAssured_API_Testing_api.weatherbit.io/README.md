@@ -7,7 +7,7 @@ java, intellij,api-rest,rest-assured,page-object-model
 #Rest_Assured_Api_Testing_https://api.weatherbit.io
 
 #Tools Use:
-1. IntelIJ IDE
+1. IntelIJ IDE 
 2. Maven
 3. JDK 1.8
 4. RestAssured POM Dependency
