@@ -26,7 +26,7 @@ Section
 My Account
 Join
 Menupage
-
+ 
 Recruitments:
 Java
 Selenium
