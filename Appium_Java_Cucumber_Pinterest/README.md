@@ -2,7 +2,8 @@
 Pinterest android apps automation testing with selenium, appium, java
 
 Topics
-java selenium cucumber allure appium maven-pom hybrid-framework testng-framework
+
+java selenium, cucumber , allure , appium,  maven-pom,  hybrid-framework, testng-framework
 # Appium_Java_Cucumber_Pinterest
 
 #### Project website Details: Pinterest Social Media <br>
