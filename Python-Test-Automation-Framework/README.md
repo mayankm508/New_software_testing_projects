@@ -1,3 +1,9 @@
+#About
+Test Automation Framework using selenium and Python
+
+Topics
+python, selenium, codeship ,test-automation ,pytest ,allure ,page-object-model, qa-automation-test, test-rail
+
 # Python-Test-Automation-Framework
 
 # Description
