@@ -1,3 +1,9 @@
+# About
+Weather API automation testing with Rest-Assured
+
+Topics
+java, intellij,api-rest,rest-assured,page-object-model
+
 #Rest_Assured_Api_Testing_https://api.weatherbit.io
 
 #Tools Use:
