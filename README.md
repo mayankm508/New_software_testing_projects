@@ -1,2 +1,1 @@
-# New_software_testing_projects
-GitHub's Software Testing Project repository is your go-to resource for comprehensive software testing. It offers adaptable test suites, automation scripts, and case examples, supporting testers of all levels. Collaborate, automate, and improve your testing skills in this vibrant community.
+Welcome to my GitHub profile! I'm a software testing and test automation enthusiast with a passion for ensuring the quality and reliability of software applications. I specialize in a range of technologies and methodologies. here is some projects of software testing (manual and automation)
